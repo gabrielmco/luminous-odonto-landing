@@ -1,16 +1,31 @@
-# React + Vite
+# Luminous Odonto 🦷✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "Sorriso de Alta Performance"
 
-Currently, two official plugins are available:
+Uma Landing Page premium desenvolvida com foco em **alta performance**, **interatividade fluida** e **estética minimalista**. O design traz a sensação de precisão e tecnologia, utilizando animações avançadas e física de elementos (botões magnéticos).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Status do Projeto](https://img.shields.io/badge/Status-Finalizado-green)
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **[React](https://react.dev/) (Vite)**: Estrutura componentizada e veloz.
+- **[Tailwind CSS](https://tailwindcss.com/)**: Estilização moderna e responsiva.
+- **[Framer Motion](https://www.framer.com/motion/)**: Animações de entrada e interações complexas.
+- **[Lenis](https://lenis.darkroom.engineering/)**: Scroll suave com inércia (Smooth Scroll).
+- **[Lucide React](https://lucide.dev/)**: Ícones leves.
 
-## Expanding the ESLint configuration
+## ✨ Destaques do Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Hero Sticky Fade:** Efeito visual onde a primeira seção fixa e desaparece gradualmente.
+- **Botões Magnéticos:** Botões que reagem à proximidade do mouse.
+- **Cursor Personalizado:** Cursor duplo interativo.
+- **Design Responsivo:** Totalmente adaptado para mobile e desktop.
+
+## 📦 Como Rodar Localmente
+
+1. Clone o projeto.
+2. Instale as dependências: `npm install`
+3. Rode o servidor: `npm run dev`
+
+---
+Desenvolvido por **Gabriel WebDev**.
